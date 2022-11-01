@@ -80,7 +80,7 @@ function App() {
     setCity("");
     setType("");
     setDate(null);
-    setCost([20000, 40000]);
+    setCost([40000, 100000]);
     setProperties(propertiesArray);
   };
 
