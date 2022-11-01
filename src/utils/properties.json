@@ -1,0 +1,128 @@
+[
+    {
+        "name":"Fortuna Avenue",
+        "location": {"city":"Gwalior","state":"Madhya Pradesh"},
+        "availability": {"date":12, "month":11,"year":2022},
+        "type":"House",
+        "price": 100000
+    },
+    {
+        "name":"Centella",
+        "location":{"city":"Gwalior","state":"Madhya Pradesh"},
+        "availability": {"date":10, "month":11,"year":2022},
+        "type":"House",
+        "price": 75000
+    },
+    {
+        "name":"The Taj",
+        "location":{"city":"Mumbai","state":"Maharashtra"},
+        "availability": {"date":2, "month":11,"year":2022},
+        "type":"Apartment",
+        "price": 115000
+    },
+    {
+        "name":"Meraden Grand",
+        "location":{"city":"Varanasi","state":"Uttar Pradesh"},
+        "availability": {"date":15, "month":11,"year":2022},
+        "type":"House",
+        "price": 90000
+    },
+    {
+        "name":"Radissan",
+        "location":{"city":"Varanasi","state":"Uttar Pradesh"},
+        "availability": {"date":1, "month":12,"year":2022},
+        "type":"House",
+        "price": 120000
+    },
+    {
+        "name":"Ideal Tower",
+        "location":{"city":"Varanasi","state":"Uttar Pradesh"},
+        "availability": {"date":10, "month":12,"year":2022},
+        "type":"Apartment",
+        "price": 110000
+    },
+    {
+        "name":"The Bellevue",
+        "location":{"city":"Gwalior","state":"Madhya Pradesh"},
+        "availability": {"date":12, "month":12,"year":2022},
+        "type":"Apartment",
+        "price": 60000
+    },
+    {
+        "name":"Victorian Grand",
+        "location":{"city":"Kolkata","state":"West Bengal"},
+        "availability": {"date":5, "month":11,"year":2022},
+        "type":"House",
+        "price": 100000
+    },
+    {
+        "name":"Prezi's Inn",
+        "location":{"city":"Rishikesh","state":"Uttarakhand"},
+        "availability": {"date":6, "month":11,"year":2022},
+        "type":"Hostel",
+        "price": 50000
+    },
+    {
+        "name":"Zeeras",
+        "location":{"city":"Mumbai","state":"Maharashtra"},
+        "availability": {"date":6, "month":11,"year":2022},
+        "type":"Resort",
+        "price": 150000
+    },
+    {
+        "name":"Max's Stay",
+        "location":{"city":"Rishikesh","state":"Uttarakhand"},
+        "availability": {"date":25, "month":12,"year":2022},
+        "type":"Hostel",
+        "price": 70000
+    },
+    {
+        "name":"HillTop",
+        "location":{"city":"Mumbai","state":"Maharashtra"},
+        "availability": {"date":7, "month":11,"year":2022},
+        "type":"Resort",
+        "price": 140000
+    },
+    {
+        "name":"Asfagur Eerof",
+        "location":{"city":"Mumbai","state":"Maharashtra"},
+        "availability": {"date":15, "month":11,"year":2022},
+        "type":"House",
+        "price": 190000
+    },
+    {
+        "name":"Flamboint Flagees",
+        "location":{"city":"Varanasi","state":"Uttar Pradesh"},
+        "availability": {"date":8, "month":12,"year":2022},
+        "type":"Resort",
+        "price": 120000
+    },
+    {
+        "name":"Teerthankar Aashram",
+        "location":{"city":"Rishikesh","state":"Uttarakhand"},
+        "availability": {"date":4, "month":12,"year":2022},
+        "type":"Hostel",
+        "price": 70000
+    },
+    {
+        "name":"Homiee's Stay",
+        "location":{"city":"Kolkata","state":"West Bengal"},
+        "availability": {"date":8, "month":12,"year":2022},
+        "type":"House",
+        "price": 20000
+    },
+    {
+        "name":"Moziac",
+        "location":{"city":"Gwalior","state":"Madhya Pradesh"},
+        "availability": {"date":11, "month":11,"year":2022},
+        "type":"House",
+        "price": 110000
+    },
+    {
+        "name":"The Karen's",
+        "location":{"city":"Varanasi","state":"Uttar Pradesh"},
+        "availability": {"date":24, "month":11,"year":2022},
+        "type":"Hostel",
+        "price": 90000
+    }
+]
